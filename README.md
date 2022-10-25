@@ -1,7 +1,7 @@
 # Good list
-Aplicacao de todo com filtros
+Aplicação de todo com filtros de prioridade 
 
-## Motivacao
+## Motivação
 Praticar mais RxSwfit e operadores de filtros
 
 
