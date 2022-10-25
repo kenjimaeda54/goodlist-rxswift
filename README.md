@@ -13,7 +13,7 @@ Praticar mais RxSwfit e operadores de filtros
 - Agora com o valor antigo, posso fazer um append com novos valores
 - Atualizar uso a  palavra reservada accepted
 
-```swfit
+```swift
   //atualizar
   
   	override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
