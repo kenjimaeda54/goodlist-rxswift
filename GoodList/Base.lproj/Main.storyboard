@@ -44,10 +44,13 @@
                     <navigationItem key="navigationItem" title="Good List" id="5Fg-4c-1ZI">
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="pvB-h1-HkD">
                             <connections>
-                                <segue destination="JLX-3W-hNH" kind="show" id="Mxd-gC-Nw6"/>
+                                <segue destination="JLX-3W-hNH" kind="show" identifier="segueAddTask" id="Mxd-gC-Nw6"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
+                    <connections>
+                        <outlet property="segmentControl" destination="Bbr-RB-g2W" id="2bU-aa-YXH"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
