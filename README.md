@@ -6,7 +6,7 @@ Praticar mais RxSwfit e operadores de filtros
 
 
 ## Feature
-- Usei o BehaviorRelay para setar  variável 
+- Usei o [BehaviorRelay]( https://github.com/kenjimaeda54/concepts-RxSwift-swift) para setar  variável 
 - Valor da variável fica em value e para atualizar usamos o accepted
 - Repara que para acessar a função filter precisei usar value
 - Para atualizar primeiro instanciei o valor da variável em outra 
